@@ -1,0 +1,31 @@
+html {
+  font-size: 10px;
+}
+/*div.container-fluid {
+    margin-top:-10px;
+    margin-bottom:-10px;*/
+    /*background-color: aqua;*/
+/*}*/
+/*a.navbar-brand{
+    border:1px solid black;
+    background-color:blue;
+    margin:1px;
+}*/
+a.navbar-brand:hover{
+    
+}
+    @media (min-width: 768px) {
+        html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: #DEE8FD;
+}
