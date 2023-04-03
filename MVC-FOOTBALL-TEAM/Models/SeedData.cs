@@ -25,7 +25,7 @@ public static class SeedData
                     Name = "Real Madrid",
                     Date_of_establishment = DateTime.Parse("1989-2-12"),
                     Competition = "La Liga",
-                    Transfer_budget = 700000000
+                    Transfer_budget = 7000000000
                 },
                 new Team
                 {
